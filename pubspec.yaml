@@ -1,0 +1,19 @@
+name: i_am_rich
+description: A new Flutter application.
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^0.1.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+     - images/diamond.png
